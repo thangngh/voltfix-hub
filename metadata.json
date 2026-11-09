@@ -1,0 +1,6 @@
+{
+  "name": "VoltFix Hub - Mạng Lưới Sửa Chữa & Linh Kiện Xe Điện",
+  "description": "Nền tảng kết nối các tiệm sửa xe điện, trung tâm kinh doanh linh kiện xe điện, đặt lịch cứu hộ, quản lý kho phụ tùng và theo dõi tiến độ sửa chữa thời gian thực.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
